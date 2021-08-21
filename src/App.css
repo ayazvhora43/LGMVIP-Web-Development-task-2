@@ -1,0 +1,91 @@
+h2{
+  margin-top: 20px;
+  padding-left: 80px;
+    color: #FDFFF0;
+    font-size: 44px;
+}
+.getusersbtn{
+  color: #28CC9E;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  float: right;
+  border-radius: 10px;
+  border: 2px solid #28CC9E;
+  background-color: #FDFFF0;
+  padding: 10px 10px;
+  margin: 0 10px 0 0;
+}
+.getusersbtn:hover{
+  color: #FDFFF0;
+  border: 2px solid #FDFFF0;
+  background-color: #28CC9E;
+  box-shadow: 5px 4px 10px #707070;
+}
+.nav-container{
+  height: 90px;
+  background-color: #28CC9E !important;
+}
+.btndiv{
+  height: 100%;
+  float: left;
+  width: 45%;
+  margin-top: 20px;
+}
+.headtxtdiv{
+  height: 100%;
+  float: left;
+  width: 50%;
+}
+.userprofilescontainer{
+  float: left !important;
+  margin-top: 20px;
+  width: 33% !important;
+  margin-right: 0px;  
+}
+.useravatar{
+  border: 4px solid #FDFFF0;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+.lastdiv{
+  margin-left: 100px;
+}
+.singleprofile {
+  border: 2px solid #FDFFF0;
+  width: 210px;
+  height: 230px;
+  margin: 20px 5px;
+  text-align: center;
+  font-family: arial;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #28cc9e;
+  transition: 0.5s;
+}
+.singleprofile:hover{
+  box-shadow: -2px 2px 20px #707070;
+  transform: translateY(-20px);
+}
+.useremail {
+  color: rgb(59, 52, 52);
+  font-size: 18px;
+  color: #FDFFF0;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  overflow-wrap: anywhere;
+}
+.username{
+  font-size:22px;
+  color: #FDFFF0;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+}
+.userid{
+  color: #FDFFF0;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.loader{
+  margin-left: auto;
+  margin-right: auto;
+}
